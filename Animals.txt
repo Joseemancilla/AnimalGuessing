@@ -1,0 +1,3 @@
+['Can I swim?', ['am i the smartest animal?', 'dolphin', ["am the only bird who can't fly?", 'penguin', ['am i the biggest animal on earth', 'whale', ['could i live in a house?', 'fish', ['am i color green?', 'aligator', 'Shark']]]]],
+['am i the king of the jungle', 'lion', ['do i have strips', 'tiger', ['am i a house pet?', ['am i a felino?', 'cat', ['do i eat carrots constatly?', 'rabbit', 'dog']], ['do people make coats with my fur?', 'sheep', ['do i live in canada?', 'goose', 'Horse']]]]]]
+['Can I swim?', 'Shark', 'Horse']
